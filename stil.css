@@ -10,7 +10,7 @@ p {
 }
 h1 {
 	font-size: 40px;
-	font-family: "RominaKoscak";
+	font-family: RominaKoscak;
 	src:url("RominaKoscak.ttf");
 	color: purple;    
 }
