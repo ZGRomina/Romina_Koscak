@@ -20,4 +20,13 @@ h2 {
 ul {
 	font-size: 20px;
 	color: purple;	
+	ul {	padding:20px; /*centriranje*/
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 300px;
+			} 
+	li {	display:inline; 
+			background-color:green;
+			padding:25px;
+			border: 2px solid black;
 }
