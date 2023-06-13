@@ -6,6 +6,16 @@ p {
 	color: green;
 	margin: 25px 200px 25px 25px;
 	text-align: justify;
+	width: 800px;
+}
+h1 {
+	font-size: 40px;
+	font-family: "RominaKoscak";
+	src:url("RominaKoscak.ttf");
+	color: purple;    
+}
+h2 {
+	font-size: 30px;
 }
 ul {
 	font-size: 20px;
